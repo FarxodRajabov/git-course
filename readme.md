@@ -1,2 +1,3 @@
 # Git and Github Course 
-ssdd
+
+my second course about git
